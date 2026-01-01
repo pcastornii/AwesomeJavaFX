@@ -106,6 +106,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [Stream-Pi](https://github.com/stream-pi) - A modular, free, Open Source, Cross-platform macro pad software.
 - [SynchronizeFX](https://github.com/lestard/SynchronizeFX) - Remote Data-Binding between different JVMs, both on a local machine and over the network.
 - [SyntheticaFX](http://www.jyloo.com/syntheticafx/) - SyntheticaFX provides themes and components mainly made for professional business applications on the desktop. The library is growing, new controls are under construction and will be added in future releases. The target platform of the final release is Java 9 or above.
+- [TabPanePro](https://github.com/techsenger/tabpanepro) - An extension of the standard JavaFX TabPane that adds practical features such as custom control areas, custom tab shapes, tab drag-and-drop with edge scrolling, a tab scrollbar, and more.
 - [TestFX](https://github.com/TestFX/TestFX) - Simple and clean testing for JavaFX.
 - [TestFX-dsl](https://github.com/aalmiray/testfx-dsl/) - Java friendly DSL for defining TestFX tests.
 - [TilesFX](https://github.com/HanSolo/tilesfx) - A JavaFX library containing tiles for Dashboards.
